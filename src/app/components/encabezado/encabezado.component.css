@@ -1,0 +1,30 @@
+#logo{
+    margin-left: 10px;
+    margin-bottom: 0px;
+}
+#form{
+    position: absolute;
+}
+.encabezado{
+    width: 50%;
+   
+}
+.entrada{
+    margin:8px 0 8px 0;
+    padding:6px;
+    font-size:1em;
+    border: 5px solid #e93329;
+    width:260px;}
+.select{
+    margin:6px 0 12px 0;
+    padding:6px;
+    font-size:1em;
+    border: 2px solid #e93329;
+    width:260px;}
+.botb{
+    margin:8px 0 8px 0;
+    padding:9px;
+    font-size:1em;
+    background-color:#e93329;
+    border:0;
+    color:#fff;}
